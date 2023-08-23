@@ -53,7 +53,7 @@ void Main(){
                     }
                 }
             }
-
+ 
             board_viz->resize();
             board_viz->draw(board);
             board_viz->drawEnablePlaces(enable_places);
