@@ -1,7 +1,7 @@
 #define NO_S3D_USING
 #include <Siv3D.hpp>
 #include "OthelloAI.h"
-
+ 
 void Main(){
     s3d::Window::SetTitle(U"Othello AI");
     s3d::Window::SetStyle(s3d::WindowStyle::Sizable);
