@@ -797,7 +797,7 @@ void Main()
 	OthelloAI::Game game;
 
 	// AI の先読み手数（先読み手数が大きいと強くなるが、計算時間が長くなる。1 ～ 9 が目安）
-	game.setAIDepth(5);
+	game.setAIDepth(9);
 
 	// AI 視点での評価値
 	int32 value = 0;
