@@ -882,7 +882,7 @@ void Main()
 					value = 0;
 					humanColor = *reset;
 				}
-			}
+			} 
 
 			// 手番の表示
 			if (not game.isOver())
