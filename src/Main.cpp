@@ -1,6 +1,6 @@
 # include <Siv3D.hpp> // OpenSiv3D v0.6.5
 
-namespace OthelloAI
+namespace OthelloAI 
 {
 	// ビットボード
 	using BitBoard = uint64;
